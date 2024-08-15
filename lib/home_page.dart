@@ -20,6 +20,9 @@ class _Home_PageState extends State<Home_Page> {
 home_page2(),
 sHop(),
 Profile(),
+
+
+
  Supportt(),
  ];
 void _onItemTapped (int index) {
